@@ -17,6 +17,4 @@ Como usar:
 
 Para executar o script no diretório atual, use o comando:
 
-bash
-Copiar código
 ./calculadora.sh
